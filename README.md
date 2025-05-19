@@ -1,1 +1,2 @@
 # Machine-Health-Classification
+In this work, our team comprising of Guruakarthi K C (myself), Gurukumar K C, Shrimathan M and Arvind Sathyamoorthy S mentored by Dr. Karthika R and Dr. Mohanraj T took up the task of predictive maintainence and classification of machine health. The data comprised of sound parameters from a Lathe machine. We have built models based on Decision Tree, KNN, HMM and Ensemble model based on SVM and Regression. The dataset cannot be released as of now, due to conflict of interests. 
